@@ -1,0 +1,17 @@
+D:\git-upload\API-Gateway-Framework\ApiGatewayFramework\bin\Debug\net8.0-windows\ApiGatewayFramework.exe
+D:\git-upload\API-Gateway-Framework\ApiGatewayFramework\bin\Debug\net8.0-windows\ApiGatewayFramework.deps.json
+D:\git-upload\API-Gateway-Framework\ApiGatewayFramework\bin\Debug\net8.0-windows\ApiGatewayFramework.runtimeconfig.json
+D:\git-upload\API-Gateway-Framework\ApiGatewayFramework\bin\Debug\net8.0-windows\ApiGatewayFramework.dll
+D:\git-upload\API-Gateway-Framework\ApiGatewayFramework\bin\Debug\net8.0-windows\ApiGatewayFramework.pdb
+D:\git-upload\API-Gateway-Framework\ApiGatewayFramework\obj\Debug\net8.0-windows\ApiGatewayFramework.Form1.resources
+D:\git-upload\API-Gateway-Framework\ApiGatewayFramework\obj\Debug\net8.0-windows\ApiGatewayFramework.csproj.GenerateResource.cache
+D:\git-upload\API-Gateway-Framework\ApiGatewayFramework\obj\Debug\net8.0-windows\ApiGatewayFramework.GeneratedMSBuildEditorConfig.editorconfig
+D:\git-upload\API-Gateway-Framework\ApiGatewayFramework\obj\Debug\net8.0-windows\ApiGatewayFramework.AssemblyInfoInputs.cache
+D:\git-upload\API-Gateway-Framework\ApiGatewayFramework\obj\Debug\net8.0-windows\ApiGatewayFramework.AssemblyInfo.cs
+D:\git-upload\API-Gateway-Framework\ApiGatewayFramework\obj\Debug\net8.0-windows\ApiGatewayFramework.csproj.CoreCompileInputs.cache
+D:\git-upload\API-Gateway-Framework\ApiGatewayFramework\obj\Debug\net8.0-windows\ApiGatewayFramework.sourcelink.json
+D:\git-upload\API-Gateway-Framework\ApiGatewayFramework\obj\Debug\net8.0-windows\ApiGatewayFramework.dll
+D:\git-upload\API-Gateway-Framework\ApiGatewayFramework\obj\Debug\net8.0-windows\refint\ApiGatewayFramework.dll
+D:\git-upload\API-Gateway-Framework\ApiGatewayFramework\obj\Debug\net8.0-windows\ApiGatewayFramework.pdb
+D:\git-upload\API-Gateway-Framework\ApiGatewayFramework\obj\Debug\net8.0-windows\ApiGatewayFramework.genruntimeconfig.cache
+D:\git-upload\API-Gateway-Framework\ApiGatewayFramework\obj\Debug\net8.0-windows\ref\ApiGatewayFramework.dll

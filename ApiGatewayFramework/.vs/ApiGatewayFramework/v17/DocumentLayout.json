@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\git-upload\\API-Gateway-Framework\\ApiGatewayFramework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4839C047-6726-4714-BE0B-2249E9A72845}|ApiGatewayFramework.csproj|d:\\git-upload\\api-gateway-framework\\apigatewayframework\\pathrouter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4839C047-6726-4714-BE0B-2249E9A72845}|ApiGatewayFramework.csproj|solutionrelative:pathrouter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4839C047-6726-4714-BE0B-2249E9A72845}|ApiGatewayFramework.csproj|d:\\git-upload\\api-gateway-framework\\apigatewayframework\\methodrouter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4839C047-6726-4714-BE0B-2249E9A72845}|ApiGatewayFramework.csproj|solutionrelative:methodrouter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4839C047-6726-4714-BE0B-2249E9A72845}|ApiGatewayFramework.csproj|d:\\git-upload\\api-gateway-framework\\apigatewayframework\\routefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4839C047-6726-4714-BE0B-2249E9A72845}|ApiGatewayFramework.csproj|solutionrelative:routefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4839C047-6726-4714-BE0B-2249E9A72845}|ApiGatewayFramework.csproj|d:\\git-upload\\api-gateway-framework\\apigatewayframework\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4839C047-6726-4714-BE0B-2249E9A72845}|ApiGatewayFramework.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4839C047-6726-4714-BE0B-2249E9A72845}|ApiGatewayFramework.csproj|d:\\git-upload\\api-gateway-framework\\apigatewayframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4839C047-6726-4714-BE0B-2249E9A72845}|ApiGatewayFramework.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4839C047-6726-4714-BE0B-2249E9A72845}|ApiGatewayFramework.csproj|d:\\git-upload\\api-gateway-framework\\apigatewayframework\\requestclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4839C047-6726-4714-BE0B-2249E9A72845}|ApiGatewayFramework.csproj|solutionrelative:requestclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4839C047-6726-4714-BE0B-2249E9A72845}|ApiGatewayFramework.csproj|d:\\git-upload\\api-gateway-framework\\apigatewayframework\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4839C047-6726-4714-BE0B-2249E9A72845}|ApiGatewayFramework.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4839C047-6726-4714-BE0B-2249E9A72845}|ApiGatewayFramework.csproj|d:\\git-upload\\api-gateway-framework\\apigatewayframework\\irouter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4839C047-6726-4714-BE0B-2249E9A72845}|ApiGatewayFramework.csproj|solutionrelative:irouter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAIkUAAAAAAAAAAApwJUUAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-06-23T06:43:45.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\git-upload\\API-Gateway-Framework\\ApiGatewayFramework\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\git-upload\\API-Gateway-Framework\\ApiGatewayFramework\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAuwCgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T06:22:07.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\git-upload\\API-Gateway-Framework\\ApiGatewayFramework\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\git-upload\\API-Gateway-Framework\\ApiGatewayFramework\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T06:21:44.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "routeFactory.cs",
+              "DocumentMoniker": "D:\\git-upload\\API-Gateway-Framework\\ApiGatewayFramework\\routeFactory.cs",
+              "RelativeDocumentMoniker": "routeFactory.cs",
+              "ToolTip": "D:\\git-upload\\API-Gateway-Framework\\ApiGatewayFramework\\routeFactory.cs",
+              "RelativeToolTip": "routeFactory.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T06:18:13.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "methodRouter.cs",
+              "DocumentMoniker": "D:\\git-upload\\API-Gateway-Framework\\ApiGatewayFramework\\methodRouter.cs",
+              "RelativeDocumentMoniker": "methodRouter.cs",
+              "ToolTip": "D:\\git-upload\\API-Gateway-Framework\\ApiGatewayFramework\\methodRouter.cs",
+              "RelativeToolTip": "methodRouter.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T06:17:09.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pathRouter.cs",
+              "DocumentMoniker": "D:\\git-upload\\API-Gateway-Framework\\ApiGatewayFramework\\pathRouter.cs",
+              "RelativeDocumentMoniker": "pathRouter.cs",
+              "ToolTip": "D:\\git-upload\\API-Gateway-Framework\\ApiGatewayFramework\\pathRouter.cs",
+              "RelativeToolTip": "pathRouter.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T06:15:12.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "requestClass.cs",
+              "DocumentMoniker": "D:\\git-upload\\API-Gateway-Framework\\ApiGatewayFramework\\requestClass.cs",
+              "RelativeDocumentMoniker": "requestClass.cs",
+              "ToolTip": "D:\\git-upload\\API-Gateway-Framework\\ApiGatewayFramework\\requestClass.cs",
+              "RelativeToolTip": "requestClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T06:11:05.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Irouter.cs",
+              "DocumentMoniker": "D:\\git-upload\\API-Gateway-Framework\\ApiGatewayFramework\\Irouter.cs",
+              "RelativeDocumentMoniker": "Irouter.cs",
+              "ToolTip": "D:\\git-upload\\API-Gateway-Framework\\ApiGatewayFramework\\Irouter.cs",
+              "RelativeToolTip": "Irouter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T06:10:15.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\git-upload\\API-Gateway-Framework\\ApiGatewayFramework\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\git-upload\\API-Gateway-Framework\\ApiGatewayFramework\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T06:01:02.962Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
