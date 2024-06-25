@@ -8,6 +8,6 @@ namespace ApiGatewayFramework
 {
     internal interface Irouter
     {
-        void routeRequest(requestClass request);
+        serviceInstanceClass routeRequest(requestClass request);
     }
 }

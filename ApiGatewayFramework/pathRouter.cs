@@ -11,17 +11,30 @@ namespace ApiGatewayFramework
     internal class pathRouter : Irouter
     {
 
-        private readonly Dictionary<string, string> pathMappings;
+        private readonly Dictionary<string, List<serviceInstanceClass>> pathMappings;
+            private readonly loadBalancerClass loadBalancer;
 
-        public pathRouter(Dictionary<string, string> pathMappings)
+        public pathRouter(Dictionary<string, List<serviceInstanceClass>> pathMappings, loadBalancerClass loadBalancer)
         {
             this.pathMappings = pathMappings;
+            this.loadBalancer = loadBalancer;
         }
 
-        public void routeRequest(requestClass request)
+        public serviceInstanceClass routeRequest(requestClass request)
         {
             //your logic for handling here
-            Console.WriteLine("route request in path router");
+
+            if (pathMappings.TryGetValue(request.getPath(), out var instances))
+            {
+                return loadBalancer.GetInstance(instances);
+            }
+
+            else
+            {
+                return null;
+            }
+
+
         }
     }
 }

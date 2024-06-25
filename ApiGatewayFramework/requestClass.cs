@@ -10,6 +10,12 @@ namespace ApiGatewayFramework
     {
         private string path;
         private string method;
+        public string Id;
+
+        public requestClass(string id)
+        {
+            Id = id;
+        }
 
         public string getPath()
         {
@@ -30,6 +36,17 @@ namespace ApiGatewayFramework
         {
             this.method = Method;
         }
+
+        public string getId()
+        {
+            return this.Id;
+        }
+
+        public void setId(string ID)
+        {
+            this.Id = ID;
+        }
+
 
     }
 }
